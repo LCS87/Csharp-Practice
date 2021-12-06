@@ -143,7 +143,7 @@ namespace Aula02
 
 
 
-using System;
+
 
 namespace Aula03
 {
@@ -355,7 +355,6 @@ namespace Aula03
 
 
 
-sing System; 
 
 namespace aula04
 {
